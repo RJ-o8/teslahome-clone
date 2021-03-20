@@ -18,6 +18,7 @@
     display: flex;
     flex :1;
     justify-content: center;
+    font-size: small;
 }
 
 .header__center > p{
